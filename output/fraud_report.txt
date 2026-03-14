@@ -1,0 +1,2 @@
+Transaction 2 → FRAUD
+Transaction 3 → SUSPICIOUS
